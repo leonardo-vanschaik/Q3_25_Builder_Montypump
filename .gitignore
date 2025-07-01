@@ -1,0 +1,101 @@
+# -----------------------------
+# Node.js / Yarn / TypeScript
+# -----------------------------
+node_modules/
+**/node_modules/
+dist/
+build/
+.cache/
+.yarn/
+.pnp.*
+.yarnrc.yml
+*.tsbuildinfo
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.*
+
+# -----------------------------
+# Solana Wallets / Secrets
+# -----------------------------
+*wallet.json
+*.secret
+*.pem
+*.key
+**/.wallets/
+
+# -----------------------------
+# Anchor / Solana CLI / Rust
+# -----------------------------
+target/
+**/target/
+**/*.so
+**/*.d
+**/*.rlib
+**/*.rmeta
+**/*.log
+**/*.out
+**/*.a
+**/*.exe
+**/*.bak
+**/*.bk
+.anchor/
+**/.anchor/
+.miraland/
+.solana/
+Cargo.lock
+Cargo.toml.orig
+tests/**/target/
+programs/**/target/
+
+# Do NOT ignore Anchor.toml
+!Anchor.toml
+
+# -----------------------------
+# Ignore Anchor-generated IDL/Types
+# -----------------------------
+idl/
+types/
+
+# -----------------------------
+# Testing Frameworks (mocha, vitest, jest, etc.)
+# -----------------------------
+coverage/
+.nyc_output/
+test-results/
+test-results.xml
+repomix-output.xml
+*.test.ts
+*.spec.ts
+*.test.js
+*.spec.js
+
+# -----------------------------
+# macOS / System / Editor files
+# -----------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# -----------------------------
+# React / Next.js
+# -----------------------------
+.next/
+out/
+*.next/
+*.out/
+.next/cache/
+out/cache/
+
+# -----------------------------
+# Docker
+# -----------------------------
+.docker/
+.dockerignore
+Dockerfile
+docker-compose.yml
