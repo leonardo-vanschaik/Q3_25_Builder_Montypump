@@ -1,13 +1,13 @@
-# Q3 2025 Builder Projects
+# Q3 2025 Builder Portfolio
 
 Turbin3 Projects & Exercises
 
-## Projects
+## Projects / Exercises
 
 | Project Name | Language / Concepts | Date Completed |
 |--------------|---------------------|----------------|
-| [Rust Prereq](Prerequisites/rustprereq/) | Rust, Solana SDK, keypair, airdrop, transfer, transaction, PDA | 2025-06-25 |
-| [TypeScript Prereq](Prerequisites/tsprereq/) | TypeScript, Anchor, @solana/web3.js, PDA, submitTx, airdrop | 2025-06-26 |
+| [TypeScript Prereq](Prerequisites/tsprereq/) | TypeScript, Anchor, @solana/web3.js, PDA, submitTx, airdrop | 2025-06-25 |
+| [Rust Prereq](Prerequisites/rustprereq/) | Rust, Solana SDK, keypair, airdrop, transfer, transaction, PDA | 2025-06-26 |
 
 ---
 
