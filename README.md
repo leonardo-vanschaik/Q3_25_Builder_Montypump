@@ -8,6 +8,8 @@ Turbin3 Projects & Exercises
 |--------------|---------------------|----------------|
 | [TypeScript Prereq](Prerequisites/tsprereq/) | TypeScript, Anchor, @solana/web3.js, PDA, submitTx, airdrop | 2025-06-25 |
 | [Rust Prereq](Prerequisites/rustprereq/) | Rust, Solana SDK, keypair, airdrop, transfer, transaction, PDA | 2025-06-26 |
+| [SPL Token Demo](Week1/spltoken/) | Solana SPL-Token, createMint/mintTo, metadata account, keypair ops | 2025-07-01 |
+| [Rug Day NFT](Week1/rugday/) | Solana NFT, Metaplex UMI, Irys uploader, token metadata | 2025-07-03 |
 
 ---
 
