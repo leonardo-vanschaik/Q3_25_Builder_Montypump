@@ -7,7 +7,7 @@ Turbin3 Projects & Exercises
 | [Rust Prereq](Prerequisites/rustprereq/) | Rust, Solana SDK, keypair, airdrop, transfer, transaction, PDA | 2025-06-26 |
 | [SPL Token Demo](Week1/spltoken/) | Solana SPL-Token, createMint/mintTo, metadata account, keypair ops | 2025-07-01 |
 | [Rug Day NFT](Week1/rugday/) | Solana NFT, Metaplex UMI, Irys uploader, token metadata | 2025-07-03 |
-| [Anchor Vault Q3](anchor-vault-q3/) | Anchor, Rust, PDA, SystemAccount, deposit/withdraw, error handling | 2025-07-08 |
+| [Anchor Vault Q3](https://github.com/leonardo-vanschaik/anchor-vault-q3) | Anchor, Rust, PDA, SystemAccount, deposit/withdraw, error handling | 2025-07-08 |
 ---
 ## Author
 **Leonardo Van Schaik** | *Monty Pump*  
