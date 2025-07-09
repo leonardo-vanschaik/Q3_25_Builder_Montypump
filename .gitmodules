@@ -1,0 +1,3 @@
+[submodule "anchor-vault-q3"]
+	path = anchor-vault-q3
+	url = https://github.com/leonardo-vanschaik/anchor-vault-q3.git
